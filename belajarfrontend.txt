@@ -1,3 +1,5 @@
 Belajar Frontend
 Konsisten belajar HTML CSS
 Belajar javascript
+Tambahan rencana
+Switch career menjadi web developer

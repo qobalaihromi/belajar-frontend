@@ -1,0 +1,3 @@
+Belajar Frontend
+Konsisten belajar HTML CSS
+Belajar javascript
